@@ -1,4 +1,4 @@
-from src.train import Model
+from train import Model
 
 
 def test_train_model():
